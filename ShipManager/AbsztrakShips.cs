@@ -4,21 +4,27 @@ using System.Text;
 
 namespace ShipManager
 {
-    public abstract class AbsztrakShips : IKarbantarthato, IUszokepes
+    public abstract class AbsztrakShips : IKarbantarthato
     {
-        public int suly { get; set; }
-        public string? azonosito { get; set; }
-        public string? nev { get; set; }
-        public int uzemanyagszint { get; set; }
-        public int maxsebesseg { get; set; }
-        public int aktualissebesseg { get; set; }
-        public int onsuly { get; set; }
-        public IUszokepes(int suly,int onsuly,int uzemanyagszint,int maxsebesseg)
+        public int Suly { get; set; }
+        public string? Azonosito { get; set; }
+        public string? Nev { get; set; }
+        public int Uzemanyagszint { get; set; }
+        public int Maxsebesseg { get; set; }
+        public int Aktualissebesseg { get; set; }
+        public int Onsuly { get; set; }
+
+        public AbsztrakShips(int suly, int onsuly, int uzemanyagszint, int maxsebesseg, string? nev = null, string? azonosito = null)
         {
-            this.suly = suly;
-            this.onsuly = onsuly;
-            this.uzemanyagszint = uzemanyagszint;
-            this.maxsebesseg = maxsebesseg;
+            Suly = suly;
+            Onsuly = onsuly;
+            Uzemanyagszint = uzemanyagszint;
+            Maxsebesseg = maxsebesseg;
+            Nev = nev;
+            Azonosito = azonosito;
         }
+
+        public abstract void Karbantartas();
+        public abstract void StatuszReport();
     }
 }

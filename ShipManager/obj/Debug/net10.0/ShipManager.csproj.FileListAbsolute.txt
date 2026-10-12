@@ -1,0 +1,16 @@
+C:\Users\sipos\source\repos\Shipmanager\ShipManager\bin\Debug\net10.0\ShipManager.exe
+C:\Users\sipos\source\repos\Shipmanager\ShipManager\bin\Debug\net10.0\ShipManager.deps.json
+C:\Users\sipos\source\repos\Shipmanager\ShipManager\bin\Debug\net10.0\ShipManager.runtimeconfig.json
+C:\Users\sipos\source\repos\Shipmanager\ShipManager\bin\Debug\net10.0\ShipManager.dll
+C:\Users\sipos\source\repos\Shipmanager\ShipManager\bin\Debug\net10.0\ShipManager.pdb
+C:\Users\sipos\source\repos\Shipmanager\ShipManager\obj\Debug\net10.0\ShipManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sipos\source\repos\Shipmanager\ShipManager\obj\Debug\net10.0\ShipManager.AssemblyInfoInputs.cache
+C:\Users\sipos\source\repos\Shipmanager\ShipManager\obj\Debug\net10.0\ShipManager.AssemblyInfo.cs
+C:\Users\sipos\source\repos\Shipmanager\ShipManager\obj\Debug\net10.0\ShipManager.csproj.CoreCompileInputs.cache
+C:\Users\sipos\source\repos\Shipmanager\ShipManager\obj\Debug\net10.0\ShipManager.sourcelink.json
+C:\Users\sipos\source\repos\Shipmanager\ShipManager\obj\Debug\net10.0\ShipManager.dll
+C:\Users\sipos\source\repos\Shipmanager\ShipManager\obj\Debug\net10.0\refint\ShipManager.dll
+C:\Users\sipos\source\repos\Shipmanager\ShipManager\obj\Debug\net10.0\ShipManager.pdb
+C:\Users\sipos\source\repos\Shipmanager\ShipManager\obj\Debug\net10.0\ShipManager.genruntimeconfig.cache
+C:\Users\sipos\source\repos\Shipmanager\ShipManager\obj\Debug\net10.0\ref\ShipManager.dll
+C:\Users\sipos\source\repos\Shipmanager\ShipManager\obj\Debug\net10.0\ShipMana.93D13F45.Up2Date

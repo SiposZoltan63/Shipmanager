@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\2026_2027\\siposz\\Gitwork\\ShipManager\\ShipManager\\ShipManager.csproj": {}
+    "C:\\Users\\sipos\\source\\repos\\Shipmanager\\ShipManager\\ShipManager.csproj": {}
   },
   "projects": {
-    "C:\\2026_2027\\siposz\\Gitwork\\ShipManager\\ShipManager\\ShipManager.csproj": {
+    "C:\\Users\\sipos\\source\\repos\\Shipmanager\\ShipManager\\ShipManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\2026_2027\\siposz\\Gitwork\\ShipManager\\ShipManager\\ShipManager.csproj",
+        "projectUniqueName": "C:\\Users\\sipos\\source\\repos\\Shipmanager\\ShipManager\\ShipManager.csproj",
         "projectName": "ShipManager",
-        "projectPath": "C:\\2026_2027\\siposz\\Gitwork\\ShipManager\\ShipManager\\ShipManager.csproj",
-        "packagesPath": "C:\\Users\\siposz\\.nuget\\packages\\",
-        "outputPath": "C:\\2026_2027\\siposz\\Gitwork\\ShipManager\\ShipManager\\obj\\",
+        "projectPath": "C:\\Users\\sipos\\source\\repos\\Shipmanager\\ShipManager\\ShipManager.csproj",
+        "packagesPath": "C:\\Users\\sipos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sipos\\source\\repos\\Shipmanager\\ShipManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\siposz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sipos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -6,5 +6,6 @@ namespace ShipManager
 {
     public interface IKarbantarthato
     {
+        void Karbantartas();
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShipManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+024144259313edf38ada97ac78e00389add22ab9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShipManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShipManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
